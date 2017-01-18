@@ -17,3 +17,5 @@ author:
   feedburner: nil
 
 production_url : http://blog.servercobra.com
+
+theme: jekyll-theme-slate

@@ -1,11 +1,13 @@
 ---
 layout: page
-title: New Year's Resolutions, 2017
-tagline: Building on last year
-description: A look back at what I accomplished in 2016 and what I plan to
-do in 2017
+title: Home
 ---
 
-Testing!
+Hey! I'm Josh, a software developer in Chicago, IL. I currently work at [Triggr Health](https://www.triggrhealth.com), helping to transform the way addiction treatment is delivered. I write Swift, Javascript, Node, Python, Angular, Ionic, and a bunch of other stuff, depending on the day. 
 
+You can find me on [Twitter](https://twitter.com/servercobra) and [GitHub](https://github.com/pcsforeducation).
 
+Recent Posts
+------------
+
+* [2017](http://blog.servercobra.com/posts/2017)
